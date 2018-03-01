@@ -42,7 +42,7 @@ useful to map this to a script, like below in VSCode:
 
 To use within VSCode, set up your tasks.json file to include the following task:
 
-```json
+```js
 {
   // See https://go.microsoft.com/fwlink/?LinkId=733558
   // for the documentation about the tasks.json format
