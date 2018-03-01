@@ -1,0 +1,22 @@
+{
+  "name": "mocha-line",
+  "version": "0.0.1",
+  "description": "Run mocha tests at a given line number",
+  "bin": "bin/cli.js",
+  "main": "lib/index.js",
+  "repository": "https://github.com/venables/mocha-line",
+  "author": "Matt Venables <mattvenables@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "eslint --fix lib",
+    "lint": "eslit lib",
+    "test": "eslint lib"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "devDependencies": {
+    "eslint": "^4.18.1"
+  }
+}
